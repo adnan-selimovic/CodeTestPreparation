@@ -74,6 +74,7 @@ public class Problem3 {
 
         System.out.println(maxPrimeFactors(bigNum));
 
+        // https://byjus.com/maths/prime-factorization/
         /*int i = 2;
 
         for (; i <= 1000; i++) {
